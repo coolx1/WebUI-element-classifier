@@ -1,13 +1,8 @@
 # WebUI-element-classifier
-<<<<<<< HEAD
-# WebUI-element-classifier
 This project is a part of an end to end software tool to assist wireframing. Wireframing is the process of creating a blueprint to a website. 
 The blueprint is created either by hand or by using tools like Balsamiq, Axure etc.As a part of developing a tool to make wireframing easy and interactive
 so that even a layman can do it, we were aked to develop a neural network model that can recognize hand drawn webUI elements. 
 This project includes developing a CNN to classify hand drawn WebUI elements and a Flask server to run the trained CNN model.
-=======
-This project is a part of an end to end software tool to assist wireframing. Wireframing is the process of creating a blueprint to a website. The blueprint is created either by hand or by using tools like Balsamiq, Axure etc.As a part of developing a tool to make wireframing easy and interactive so that even a layman can do it, we were aked to develop a neural network model that can recognize hand drawn webUI elements. This project includes developing a CNN to classify hand drawn WebUI elements and a Flask server to run the trained CNN model.
->>>>>>> bb827dfe7d1b72974c8dffb5aa9855de278c6c01
 Run the flaskServer.py and upload any image from the test_dataset folder to see the model at work.
 
 ## segmentation.py
